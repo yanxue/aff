@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Curve
+Hey! Use Curve to combine your cards into one! Your money, made simple. Get £5 from us the first time you spend using your Curve card.
 
-You can use the [editor on GitHub](https://github.com/yanxue/aff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Promocode: AB15T
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+http://www.curve.app/join#AB15T
 
-### Markdown
+## T212
+Do you want to get a free stock share worth up to €100?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create a Trading 212 Invest account using this link www.trading212.com/invite/HEgZAvNS
+ and we both get a free share!
 
-```markdown
-Syntax highlighted code block
+## Degiro Ireland
+Hi, I am nowadays investing at DEGIRO. I thought this would also be something for you. If you would become a client we both earn €20 in transaction credit.  https://www.degiro.ie/member-get-member/receive-20-euros-and-start-trading.html?id=3CEAAE96&amp;utm_source=mgm
 
-# Header 1
-## Header 2
-### Header 3
+## amex NL
+www.americanexpress.nl/introduceren/yanxnC12?XLINK=MYCP
 
-- Bulleted
-- List
+## Revolut(no value now)
+revolut.com/r/yan1lhf!crypto
 
-1. Numbered
-2. List
+## Booking
+https://www.booking.com/s/43_8/yan01763
 
-**Bold** and _Italic_ and `Code` text
+## Booking-as host
+https://join.booking.com/r/d/a31d1464?lang=en-us&p=1
 
-[Link](url) and ![Image](src)
-```
+## transferwise
+transferwise.com/u/yanx7
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## humblebundle
+https://www.humblebundle.com/monthly?refc=bHJHte
 
-### Jekyll Themes
+## binance
+https://www.binance.com/?ref=17322529
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanxue/aff/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## coinbase
+???
 
-### Support or Contact
+## Uber
+33m9jt
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Linode
+https://www.linode.com/?r=828582dda970fd4d5abc59d757c335ec17806234
+
+## Tele2 mobile NL
+https://mgmco.nl/wawiqu/pp?s=s
