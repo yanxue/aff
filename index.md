@@ -1,3 +1,6 @@
+## vivid.money
+https://vivid.money/r/yanKWK
+
 ## Curve
 Hey! Use Curve to combine your cards into one! Your money, made simple. Get £5 from us the first time you spend using your Curve card.
 
