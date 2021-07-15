@@ -1,3 +1,5 @@
+All Aff links
+
 ## vivid.money
 <https://vivid.money/r/yanKWK>
 
