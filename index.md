@@ -21,10 +21,10 @@ Hi, I am nowadays investing at DEGIRO. I thought this would also be something fo
 <https://www.degiro.ie/member-get-member/receive-20-euros-and-start-trading.html?id=3CEAAE96&amp;utm_source=mgm>
 
 ## amex NL
-<www.americanexpress.nl/introduceren/yanxnC12?XLINK=MYCP>
+<https://www.americanexpress.nl/introduceren/yanxnC12?XLINK=MYCP>
 
 ## Revolut(no value now)
-<revolut.com/r/yan1lhf!crypto>
+<https://revolut.com/r/yan1lhf!crypto>
 
 ## Booking
 <https://www.booking.com/s/43_8/yan01763>
@@ -33,7 +33,7 @@ Hi, I am nowadays investing at DEGIRO. I thought this would also be something fo
 <https://join.booking.com/r/d/a31d1464?lang=en-us&p=1>
 
 ## transferwise
-<transferwise.com/u/yanx7>
+<https://transferwise.com/u/yanx7>
 
 ## humblebundle
 <https://www.humblebundle.com/monthly?refc=bHJHte>
